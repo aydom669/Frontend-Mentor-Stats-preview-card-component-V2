@@ -89,6 +89,8 @@ body {
 }
 
 .lista li{
+  display: inline-block;
+  margin: 24px 25px 0px 0px;;
   margin-bottom: 15px;
 }
 
